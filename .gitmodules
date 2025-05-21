@@ -1,0 +1,3 @@
+[submodule "dockge-ha"]
+	path = dockge-ha
+	url = git@github.com:ArnyminerZ/dockge-ha.git
